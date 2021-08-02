@@ -1,5 +1,5 @@
 # Ufc-Wikipedia-scraper
 
-Wrote a python script to scrape the data of every UFC event till date. The data was scraped from each of the UFC event's Wikipedia page.
+This repositary contains a python script that scraped the data of every UFC event till date. The data was scraped from each of the UFC event's Wikipedia page.
 
-Modules used were requests and BeutifulSoup
+Modules used were requests, BeutifulSoup and pandas
